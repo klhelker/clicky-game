@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 
 const NavBar = () => (
- <nav className="navbar">
+ <nav className="navbar navbar-sticky">
      <div className="navbar--logo-holder">
          <h1>Clicky Game</h1>
          </div>
