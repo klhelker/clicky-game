@@ -41,6 +41,7 @@ class App extends Component {
     console.log(characters)
     this.setState({characters: characters})
   }
+  
  render() {
   return (
         <Wrapper>
